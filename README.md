@@ -3,17 +3,17 @@
 
 <p align="left"> <a href="https://twitter.com/riyazahmader" target="blank"><img src="https://img.shields.io/twitter/follow/riyazahmader?logo=twitter&style=for-the-badge" alt="riyazahmader" /></a> </p>
 
-- 🔭 Latest project [Smallcase.com - clone](https://quirky-euclid-a4366c.netlify.app/)
+- 🔭 Latest project [footlocker.com - clone](https://github.com/iam-riyaz/footlocker_clone)
 
 - 🌱 I’m currently learning **redux**
 
 - 📝 I regularly write articles on [https://medium.com/@riyazahmad.online](https://medium.com/@riyazahmad.online)
 
-- 💬 Ask me about **Javascript , react, nodeJS, expressJS, mongoDB, HTML, CSS, bootstrap**
+- 💬 Ask me about **Javascript, react, nodeJS, expressJS, mongoDB, HTML, CSS, bootstrap, chakra UI**
 
 - 📫 How to reach me **riyazahmad.online@gmail.com**
 
-- 🔭 My portfolio website **https://riyazahmad.netlify.app/**
+- 🔭 My portfolio website **https://riyazahmad.vercel.app/**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1gRPJufeZOyfqiojyKSrM3fnaeAYlMtQD/view?usp=sharing](https://drive.google.com/file/d/1gRPJufeZOyfqiojyKSrM3fnaeAYlMtQD/view?usp=sharing)
 
