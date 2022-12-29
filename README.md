@@ -9,8 +9,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@riyazahmad.online](https://medium.com/@riyazahmad.online)
 
-- 💬 Ask me about 
-- **Javascript, Typescript, React, Redux, NodeJS, expressJS, mongoDB, HTML, CSS, bootstrap, chakra UI, Material UI, swagger api, mySQL, Data structureand algorithm**
+- 💬 Ask me about **Javascript, Typescript, React, Redux, NodeJS, expressJS, mongoDB, HTML, CSS, bootstrap, chakra UI, Material UI, swagger api, mySQL, Data structureand algorithm**
 
 - 📫 How to reach me **riyazahmad.online@gmail.com**
 
