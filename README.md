@@ -5,7 +5,7 @@
 
 - 🔭 Latest project [footlocker.com - clone](https://github.com/iam-riyaz/footlocker_clone)
 
-- 🌱 I’m currently learning **Advance NodeJA**
+- 🌱 I’m currently learning **Advance NodeJS**
 
 - 📝 I regularly write articles on [https://medium.com/@riyazahmad.online](https://medium.com/@riyazahmad.online)
 
