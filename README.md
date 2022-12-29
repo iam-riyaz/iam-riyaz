@@ -5,11 +5,11 @@
 
 - 🔭 Latest project [footlocker.com - clone](https://github.com/iam-riyaz/footlocker_clone)
 
-- 🌱 I’m currently learning **redux**
+- 🌱 I’m currently learning **Advance NodeJA**
 
 - 📝 I regularly write articles on [https://medium.com/@riyazahmad.online](https://medium.com/@riyazahmad.online)
 
-- 💬 Ask me about **Javascript, react, nodeJS, expressJS, mongoDB, HTML, CSS, bootstrap, chakra UI**
+- 💬 Ask me about **Javascript, Typescript, React, Redux, NodeJS, expressJS, mongoDB, HTML, CSS, bootstrap, chakra UI, Material UI, swagger api, mySQL, Data structureand algorithm **
 
 - 📫 How to reach me **riyazahmad.online@gmail.com**
 
