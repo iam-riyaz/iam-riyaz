@@ -3,19 +3,19 @@
 
 <p align="left"> <a href="https://twitter.com/riyazahmader" target="blank"><img src="https://img.shields.io/twitter/follow/riyazahmader?logo=twitter&style=for-the-badge" alt="riyazahmader" /></a> </p>
 
-- 🔭 Latest project [footlocker.com - clone](https://github.com/iam-riyaz/footlocker_clone)
+- 🔭 Latest project [contact app](https://github.com/iam-riyaz/contact_app_with_map_graph-redux-ts) 
 
-- 🌱 I’m currently learning **Advance NodeJS**
+- 🌱 I’m currently learning **MERN stack with typescript**
 
 - 📝 I regularly write articles on [https://medium.com/@riyazahmad.online](https://medium.com/@riyazahmad.online)
 
-- 💬 Ask me about **Javascript, Typescript, React, Redux, NodeJS, expressJS, mongoDB, HTML, CSS, bootstrap, chakra UI, Material UI, swagger api, mySQL, Data structure and algorithm**
+- 💬 Ask me about **Javascript, Typescript, React, Redux, NodeJS, expressJS, mongoDB, HTML, CSS, bootstrap, chakra UI, Material UI, swagger api, strapi, graphQL mySQL, Data structure and algorithm**
 
 - 📫 How to reach me **riyazahmad.online@gmail.com**
 
 - 🔭 My portfolio website **https://riyazahmad.vercel.app/**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1gRPJufeZOyfqiojyKSrM3fnaeAYlMtQD/view?usp=sharing](https://drive.google.com/file/d/1gRPJufeZOyfqiojyKSrM3fnaeAYlMtQD/view?usp=sharing)
+- 📄 Know about my experiences (https://drive.google.com/drive/folders/1DrAno3J5wIuriL7Ec0VkRPhzlZ67GB7L)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
