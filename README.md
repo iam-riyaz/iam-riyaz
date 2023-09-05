@@ -43,6 +43,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" alt="bootstrap" width="40" /> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" alt="tailwind" width="40" /> 
   <img src="https://cdn.freebiesupply.com/logos/large/2x/highcharts-logo-png-transparent.png" alt="highchart" width="40" /> 
+  <img src="https://cdn.icon-icons.com/icons2/3398/PNG/512/php_logo_icon_214645.png" alt="highchart" width="40" /> 
   <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/leaflet-1-logo.png" alt="leaflet" width="40" /> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" alt="graphQL" width="40" /> 
   
