@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="[https://www.linkedin.com/in/riyazahmad/](https://www.linkedin.com/in/riyazahmad/)" target="blank"><img width="50px" src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" alt="LinkedIn" /></a> </p>
 
-- 🔭 Latest project [contact app](https://github.com/iam-riyaz/contact_app_with_map_graph-redux-ts) 
+- 🔭 Latest project [R-Instagram](https://github.com/iam-riyaz/R-Instagram) 
 
 - 🌱 I’m currently learning **MERN stack with typescript**
 
