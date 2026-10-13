@@ -15,7 +15,6 @@
 
 - 🔭 My portfolio website **https://riyazahmad.vercel.app/**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/drive/folders/1DrAno3J5wIuriL7Ec0VkRPhzlZ67GB7L).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
