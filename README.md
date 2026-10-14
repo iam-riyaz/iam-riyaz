@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@riyazahmad.online](https://medium.com/@riyazahmad.online)
 
-- 💬 Ask me about **Javascript, Typescript, React, Redux, NodeJS, expressJS, mongoDB, HTML, CSS, bootstrap, chakra UI, Material UI, swagger api, strapi, graphQL, mySQL, Data structure and algorithm**
+- 💬 Ask me about **Javascript, Typescript, React, Redux, NodeJS, expressJS, NextJS, SvelteKit, Angular mongoDB, HTML, CSS, bootstrap, chakra UI, Material UI, swagger api, strapi, graphQL, mySQL, Data structure and algorithm**
 
 - 📫 How to reach me **riyazahmad.online@gmail.com**
 
@@ -24,7 +24,6 @@
 </p>
 
 ## Contribution 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=iam-riyaz)](https://git.io/streak-stats)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=iam-riyaz)](https://git.io/streak-stats)
 
 <h3 align="left">Languages and Tools:</h3>
