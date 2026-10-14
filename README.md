@@ -25,6 +25,7 @@
 
 ## Contribution 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=iam-riyaz)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=iam-riyaz)](https://git.io/streak-stats)
 
 <h3 align="left">Languages and Tools:</h3>
 <P>
