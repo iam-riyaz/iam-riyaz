@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="[https://www.linkedin.com/in/riyazahmad/](https://www.linkedin.com/in/riyazahmad/)" target="blank"><img width="50px" src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" alt="LinkedIn" /></a> </p>
 
-- 🔭 Latest project [R-Instagram](https://github.com/iam-riyaz/R-Instagram) 
+- 🔭 Latest project [AI zara E-COM] (https://al-zara-hub.vercel.app/) 
 
 - 🌱 I’m currently learning **MERN stack with typescript**
 
