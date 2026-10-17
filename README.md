@@ -1,54 +1,159 @@
-<h1 align="center">Hi 👋, I'm Riyaz Ahmad</h1>
-<h3 align="center">Full-Stack Web Developer || MERN stack</h3>
+<div align="center">
 
-<p align="left"> <a href="[https://www.linkedin.com/in/riyazahmad/](https://www.linkedin.com/in/riyazahmad/)" target="blank"><img width="50px" src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" alt="LinkedIn" /></a> </p>
+# Hey, I'm Riyaz Ahmad 👋
 
-- 🔭 Latest project [AI zara E-COM](https://al-zara-hub.vercel.app/) 
+### Software Development Engineer | Full-Stack Developer | MERN Stack
 
-- 🌱 I’m currently learning **MERN stack with typescript**
-
-- 📝 I regularly write articles on [https://medium.com/@riyazahmad.online](https://medium.com/@riyazahmad.online)
-
-- 💬 Ask me about **Javascript, Typescript, React, Redux, NodeJS, expressJS, NextJS, SvelteKit, Angular mongoDB, HTML, CSS, bootstrap, chakra UI, Material UI, swagger api, strapi, graphQL, mySQL, Data structure and algorithm**
-
-- 📫 How to reach me **riyazahmad.online@gmail.com**
-
-- 🔭 My portfolio website **https://riyazahmad.vercel.app/**
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/riyazahmader" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/wIf3HtczQDjHzHuu7vezhqNs0zXAG85F7VmP7nhsTxO3OHegrVXlqIh_DWBYi86FTIGk" alt="riyazahmader"  width="40" /></a>
-<a href="https://www.linkedin.com/in/riyazahmad/" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" alt="iam-riyaz"  width="40" /></a>
-<a href="https://medium.com/@riyazahmad.online" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/hB9t3Z-mi284_49HA3nAuhO-W5Cyhje7r2P9McdgORoVCd-0SV54c12NMQWLHnqALw" alt="@riyazahmad.online" height="30" width="40" /></a>
+<p>
+  I build performant web applications, reliable backend systems, real-time products, and AI-powered experiences.
 </p>
 
-## Contribution 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=iam-riyaz)](https://git.io/streak-stats)
+<p>
+  <a href="https://www.linkedin.com/in/riyazahmad">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:riyazahmad.online@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <!-- Replace YOUR_PORTFOLIO_URL with your portfolio URL -->
+  <a href="YOUR_PORTFOLIO_URL">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<P>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt="React" width="40" /> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" alt="node" width="40" /> 
-<img src="https://miro.medium.com/v2/resize:fit:512/1*doAg1_fMQKWFoub-6gwUiQ.png" alt="mongodb" width="40" /> 
-<img src="https://bs-uploads.toptal.io/blackfish-uploads/components/skill_page/content/logo_file/logo/195562/express_js-161052138fa79136c0474521906b55e2.png" alt="express" width="40" /> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png?20221110153201" alt="typescript" width="40" /> 
-<img src="https://durableprogramming.com/wp-content/uploads/2023/04/JavaScript-logo.png" alt="javascript" width="40" /> 
-<img src="https://images.ctfassets.net/c63hsprlvlya/IacLLeOBR5WCvdCPqKuff/6860b5cc464c4f54703a2befa3f706b4/nextjs3.webp" alt="nextjs" width="40" /> 
-<img src="https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.png" alt="mysql" width="40" /> 
-  <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="git" width="40" /> 
-  <img src="https://w7.pngwing.com/pngs/413/852/png-transparent-redux-react-logo-javascript-dq-purple-violet-text.png" alt="redux" width="40" /> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/640px-HTML5_logo_and_wordmark.svg.png" alt="html" width="40" /> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" alt="css" width="40" /> 
-  <img src="https://avatars.githubusercontent.com/u/7658037?v=4&s=400" alt="swaggerDoc" width="40" /> 
-  <img src="https://www.cmswire.com/-/media/6f319f84dc3d4db69457aeda6ffc092f.ashx" alt="strapi" width="40" /> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" alt="bootstrap" width="40" /> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" alt="tailwind" width="40" /> 
-  <img src="https://cdn.freebiesupply.com/logos/large/2x/highcharts-logo-png-transparent.png" alt="highchart" width="40" /> 
-  <img src="https://cdn.icon-icons.com/icons2/3398/PNG/512/php_logo_icon_214645.png" alt="highchart" width="40" /> 
-  <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/leaflet-1-logo.png" alt="leaflet" width="40" /> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" alt="graphQL" width="40" /> 
-  
-</P>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full-Stack+Engineer;React+%7C+Next.js+%7C+TypeScript;Node.js+%7C+Express+%7C+NestJS;Building+reliable+APIs+and+fast+UIs;Exploring+LLMs+and+AI-powered+products" alt="Typing introduction" />
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iam-riyaz&show_icons=true&locale=en&layout=compact" alt="iam-riyaz" /></p>
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a **Software Development Engineer with 4+ years of experience** building and improving web applications across the stack. I enjoy turning ambiguous problems into maintainable solutions—from frontend architecture and API design to production debugging and performance optimization.
+
+- 🚀 Build full-stack applications with **React, Next.js, Node.js, Express, TypeScript, and MongoDB**.
+- ⚡ Improved a B2B dashboard's page load time by **78%** and raised its Lighthouse score from **65 to 94**.
+- 💳 Worked on **Stripe and Razorpay** wallet-recharge flows, including idempotency and retry handling to prevent duplicate transactions.
+- 📡 Built real-time UI integrations using **REST APIs and WebSockets** for high-frequency telemetry data.
+- 🧪 Established frontend testing practices using **Jest and React Testing Library**, helping take coverage to **85%**.
+- 🤖 Building AI-powered features with LLM APIs and using AI coding tools to support development, debugging, and testing.
+- 🌱 Continuously learning about system design, scalable backend architecture, and production-ready AI integrations.
+
+> I care about more than making software work: I care about how it behaves under load, how it fails, and how easily a team can maintain it.
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,svelte,angular,ts,js,html,css,tailwind,vite" alt="Frontend technologies" />
+</p>
+
+### Backend & APIs
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql,python" alt="Backend technologies" />
+</p>
+
+### Databases & Infrastructure
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,mysql,aws,gcp,docker,githubactions,git,webpack" alt="Databases and tools" />
+</p>
+
+### Testing & AI Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" alt="Jest" />
+  <img src="https://img.shields.io/badge/React_Testing_Library-E33332?style=flat-square&logo=testinglibrary&logoColor=white" alt="React Testing Library" />
+  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" />
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/OpenAI_Codex-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI Codex" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 JobPilot AI — AI Job-Application Copilot
+**MERN · React · Node.js · Express · MongoDB · Gemini 2.5 Flash**
+
+- Built an AI-powered job application tool that parses resume content and generates ATS-style match scores.
+- Integrated Gemini 2.5 Flash through RESTful APIs.
+- Used prompt engineering to transform unstructured resume text into structured output.
+
+### 📸 R-Instagram — Full-Stack Social Platform
+**React · TypeScript · Node.js · MongoDB · WebSockets**
+
+- Built a social platform with authentication, media uploads, and real-time updates.
+- Designed REST APIs and MongoDB models for core product features.
+- Reduced initial load time by approximately **40%** through lazy loading and code splitting.
+
+### 📊 Data Visualizer App
+**React · TypeScript · Data Visualization**
+
+- Created interactive charts that turn raw datasets into visual insights.
+- Improved rendering for large datasets with memoization and reusable chart components.
+
+### 🎮 Tic-Tac-Toe
+**React · TypeScript**
+
+- Built a browser game with a clear separation between game-state logic and presentation.
+
+> Pin your strongest repositories on your GitHub profile and replace these project descriptions with repository links where appropriate.
+
+---
+
+## 📈 GitHub Stats
+
+<!-- Replace YOUR_GITHUB_USERNAME in every URL below with your actual GitHub username. -->
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=iam-riyaz&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iam-riyaz&layout=compact&hide_border=true&langs_count=8" alt="Most used languages" />
+
+<br />
+
+<img src="https://streak-stats.demolab.com?user=iam-riyaz&hide_border=true" alt="GitHub contribution streak" />
+
+<br />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=iam-riyaz&hide_border=true" alt="GitHub contribution activity graph" />
+
+</div>
+
+---
+
+## 🏆 Achievements & Learning
+
+- ⭐ **5-Star in Problem Solving**
+- 🧠 Solved **4,000+ DSA problems** during intensive full-stack training.
+- 📦 Built **6+ MERN applications** during training.
+- 📜 Certifications: ReactJS (Advanced), JavaScript (Advanced), Node.js.
+
+---
+
+## 💼 What I Bring
+
+- **End-to-end ownership:** from technical approach and implementation through testing, deployment, and production support.
+- **Performance engineering:** code splitting, bundle optimization, lazy loading, memoization, and Core Web Vitals.
+- **Reliable backend workflows:** API contracts, payment idempotency, retry handling, and asynchronous integrations.
+- **Collaborative engineering:** code reviews, pairing, sprint planning, and cross-functional delivery.
+
+---
+
+## 🤝 Let's Connect
+
+I'm always happy to connect with engineers, builders, and teams working on useful products and challenging technical problems.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/riyazahmad">LinkedIn</a> •
+  <a href="mailto:riyazahmad.online@gmail.com">Email</a> •
+  <a href="YOUR_PORTFOLIO_URL">Portfolio</a>
+</p>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=blue" alt="Profile views" />
+  <br />
+  <sub>Thanks for stopping by! Feel free to explore my repositories. ✨</sub>
+</div>
