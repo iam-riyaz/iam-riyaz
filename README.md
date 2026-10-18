@@ -118,7 +118,6 @@ I'm a **Software Development Engineer with 4+ years of experience** building and
 
 <br />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=iam-riyaz&hide_border=true" alt="GitHub contribution activity graph" />
 
 </div>
 
@@ -149,11 +148,11 @@ I'm always happy to connect with engineers, builders, and teams working on usefu
 <p align="center">
   <a href="https://www.linkedin.com/in/riyazahmad">LinkedIn</a> •
   <a href="mailto:riyazahmad.online@gmail.com">Email</a> •
-  <a href="YOUR_PORTFOLIO_URL">Portfolio</a>
+  <a href="https://riyazahmad.vercel.app/">Portfolio</a>
 </p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=blue" alt="Profile views" />
+  <!-- <img src="https://komarev.com/ghpvc/?username=iam-riyaz&style=flat-square&color=blue" alt="Profile views" /> -->
   <br />
   <sub>Thanks for stopping by! Feel free to explore my repositories. ✨</sub>
 </div>
